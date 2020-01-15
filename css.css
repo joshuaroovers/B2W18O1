@@ -166,7 +166,7 @@ iframe
     }
     #balktext
     {
-        display: inline-block;
+        display: unset;
         float: right;
         vertical-align: center;
 
